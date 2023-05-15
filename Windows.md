@@ -11,3 +11,5 @@
 `ipconfig\release` Remove o IP.
 
 `ipconfig\renew` Renova o IP.
+
+comando `ping` se informa TTL=128 é Windows e se for TLL 64 ou 62 é linux. 
